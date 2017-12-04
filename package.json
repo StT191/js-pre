@@ -1,0 +1,19 @@
+{
+  "name": "js-pre",
+  "version": "1.0.0",
+  "description": "JavaScript Hypertext Preprocessor",
+  "main": "js-pre.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StT191/jsHP.git"
+  },
+  "author": "Stefan Tammer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StT191/jsHP/issues"
+  },
+  "homepage": "https://github.com/StT191/jsHP"
+}
