@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/StT191/js-pre.git"
   },
-  "author": "Stefan Tammer",
+  "author": "Stefan Tammer <st.tammer@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/StT191/js-pre/issues"
