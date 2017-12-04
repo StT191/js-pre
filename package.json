@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StT191/jsHP.git"
+    "url": "git+https://github.com/StT191/js-pre.git"
   },
   "author": "Stefan Tammer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StT191/jsHP/issues"
+    "url": "https://github.com/StT191/js-pre/issues"
   },
-  "homepage": "https://github.com/StT191/jsHP"
+  "homepage": "https://github.com/StT191/js-pre"
 }
