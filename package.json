@@ -1,19 +1,19 @@
 {
-  "name": "stt-jshp",
+  "name": "node-hp",
   "version": "0.9.0",
-  "description": "JavaScript Hypertext Preprocessor",
+  "description": "NodeJS Hypertext Preprocessor",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StT191/stt-jshp.git"
+    "url": "git+https://github.com/StT191/node-hp.git"
   },
   "author": "Stefan Tammer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StT191/stt-jshp/issues"
+    "url": "https://github.com/StT191/node-hp/issues"
   },
-  "homepage": "https://github.com/StT191/stt-jshp"
+  "homepage": "https://github.com/StT191/node-hp"
 }
