@@ -1,6 +1,6 @@
 "use strict";
 
-const jsHP = require("stt-jshp");
+const jsHP = require("node-hp");
 
 const assert = require("assert");
 
