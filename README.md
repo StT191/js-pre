@@ -1,4 +1,4 @@
 # node-hp
-JavaScript Hypertext Preprocessor
+NodeJS Hypertext Preprocessor
 
 Work in Progress
